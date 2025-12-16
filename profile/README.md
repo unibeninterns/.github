@@ -38,8 +38,8 @@ We appreciate your efforts in making our projects better!
 
 Have questions, suggestions, or just want to say hello? Reach out to us through the following channels:
 
-*   **Email:** (drid@uniben.edu)[mailto:drid@uniben.edu]
-*   **Website:** (DRID)[https://drid.uniben.edu]
-*   **LinkedIn:** (Here)[https://www.linkedin.com/company/directorate-of-research-innovation-and-development-uniben]
+*   **Email:** [drid@uniben.edu](mailto:drid@uniben.edu)
+*   **Website:** [DRID](https://drid.uniben.edu)
+*   **LinkedIn:** [Here](https://www.linkedin.com/company/directorate-of-research-innovation-and-development-uniben)
 
 Thank you for visiting our GitHub organization! We look forward to building amazing things together.
