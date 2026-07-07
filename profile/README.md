@@ -19,9 +19,7 @@ We believe in the power of open collaboration and strive to build a vibrant ecos
 
 Here's a glimpse of some of our key open-source initiatives. We encourage you to explore them, contribute, and provide feedback!
 
-Find them in our public repositories
-
-*(Feel free to add more projects as needed)*
+Find them in our public repositories https://github.com/orgs/drid-uniben/repositories
 
 ## Contributing
 
